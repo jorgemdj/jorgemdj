@@ -16,9 +16,9 @@ Mechanical Engineer paixonate for Data Science and Computer Programming
 
 
 ### Você também me encontra em:
-&nbsp;<a href="https://br.linkedin.com/in/lucas-leal-santos](https://www.linkedin.com/in/jorge-manoel/">
+&nbsp;<a href="https://www.linkedin.com/in/jorge-manoel/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/_llucaslleall/](https://www.instagram.com/jorgedrumondjr/">
+&nbsp;<a href="https://www.instagram.com/jorgedrumondjr/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
