@@ -4,7 +4,7 @@ Mechanical Engineer paixonate for Data Science and Computer Programming
 
 
 - 🌱 I’m currently learning **Python** and **SQL**
-- 👨🏾‍💻 I’m looking to collaborate on **Data Science related programs**.
+- 👨🏾‍💻 I’m looking to collaborate on **Data Science and IA related programs**.
 - 🖥️ I'm focused at the moment in:
 
 <div displa="inline">
