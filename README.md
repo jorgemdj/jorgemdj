@@ -4,7 +4,7 @@ Mechanical Engineer paixonate for Data Science and Computer Programming
 
 
 - 🌱 I’m currently finishing my cs50x course.
-- 👨🏾‍💻 My final project consist in a site for a company that includes a large variety of aplications minly programed in **Python**, **SQL** **HTML**, **CSS**, **JavaScript** and **Jinja**.
+- 👨🏾‍💻 My final project consist in a site for a company that includes a large variety of aplications mainly programed in **Python**, **SQL** **HTML**, **CSS**, **JavaScript** and **Jinja**.
 - 🖥️ I'm focused at the moment in:
 
 <div displa="inline">
